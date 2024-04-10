@@ -1,0 +1,3 @@
+﻿  fraction.cpp
+C:\Users\srjclabuser\source\repos\assn10P\assn10P\assn10P\fraction.cpp(95,56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  assn10P.vcxproj -> C:\Users\srjclabuser\source\repos\assn10P\assn10P\x64\Debug\assn10P.exe
